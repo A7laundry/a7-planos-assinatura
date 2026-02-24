@@ -1,4 +1,14 @@
+<<<<<<< HEAD
+node_modules
+dist
+.env
+/src/generated/prisma
+.env
+node_modules
+dist
+.DS_Store
+=======
 node_modules/
 .env
 .vercel/
-.vercel
+>>>>>>> 10eea5a (Initial commit — A7 subscription plans platform)
