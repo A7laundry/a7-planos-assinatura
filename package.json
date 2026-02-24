@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "whatsapp-agent",
   "version": "1.0.0",
   "description": "",
@@ -33,4 +34,14 @@
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   }
+=======
+  "name": "a7-planos-assinatura",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod --yes"
+  },
+  "dependencies": {}
+>>>>>>> 10eea5a (Initial commit — A7 subscription plans platform)
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 dist
 .env
@@ -6,3 +7,8 @@ dist
 node_modules
 dist
 .DS_Store
+=======
+node_modules/
+.env
+.vercel/
+>>>>>>> 10eea5a (Initial commit — A7 subscription plans platform)
